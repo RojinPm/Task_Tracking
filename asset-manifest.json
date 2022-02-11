@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/Task_Tracking/static/css/main.134f414a.chunk.css",
-    "main.js": "/Task_Tracking/static/js/main.1c1098be.chunk.js",
-    "main.js.map": "/Task_Tracking/static/js/main.1c1098be.chunk.js.map",
-    "runtime-main.js": "/Task_Tracking/static/js/runtime-main.0633d6a4.js",
-    "runtime-main.js.map": "/Task_Tracking/static/js/runtime-main.0633d6a4.js.map",
-    "static/js/2.5bbceddf.chunk.js": "/Task_Tracking/static/js/2.5bbceddf.chunk.js",
-    "static/js/2.5bbceddf.chunk.js.map": "/Task_Tracking/static/js/2.5bbceddf.chunk.js.map",
-    "static/js/3.e7f7276d.chunk.js": "/Task_Tracking/static/js/3.e7f7276d.chunk.js",
-    "static/js/3.e7f7276d.chunk.js.map": "/Task_Tracking/static/js/3.e7f7276d.chunk.js.map",
-    "index.html": "/Task_Tracking/index.html",
-    "static/css/main.134f414a.chunk.css.map": "/Task_Tracking/static/css/main.134f414a.chunk.css.map",
-    "static/js/2.5bbceddf.chunk.js.LICENSE.txt": "/Task_Tracking/static/js/2.5bbceddf.chunk.js.LICENSE.txt"
+    "main.css": "/github-finder/static/css/main.d877b165.css",
+    "main.js": "/github-finder/static/js/main.3de47727.js",
+    "static/js/787.7cdb18ce.chunk.js": "/github-finder/static/js/787.7cdb18ce.chunk.js",
+    "static/media/spinner.gif": "/github-finder/static/media/spinner.e2ffacc949faa6aeba7c.gif",
+    "static/media/github.png": "/github-finder/static/media/github.ff483d29795cbbaa567a.png",
+    "index.html": "/github-finder/index.html",
+    "main.d877b165.css.map": "/github-finder/static/css/main.d877b165.css.map",
+    "main.3de47727.js.map": "/github-finder/static/js/main.3de47727.js.map",
+    "787.7cdb18ce.chunk.js.map": "/github-finder/static/js/787.7cdb18ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0633d6a4.js",
-    "static/js/2.5bbceddf.chunk.js",
-    "static/css/main.134f414a.chunk.css",
-    "static/js/main.1c1098be.chunk.js"
+    "static/css/main.d877b165.css",
+    "static/js/main.3de47727.js"
   ]
 }
